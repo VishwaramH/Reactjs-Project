@@ -15,45 +15,45 @@ class Services extends React.Component {
             <div class="col-md-6">
                 <div class="icon-box" data-aos="fade-up">
                 <div class="icon"><i class="las la-basketball-ball" style={{color : "#ff689b"}}></i></div>
-                <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-                <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                <h4 class="title"><a href="">Beauty of Life</a></h4>
+                <p class="description">Life is a combination of joy and sorrows. We explain the beauty of it</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="icon-box" data-aos="fade-up">
                 <div class="icon"><i class="las la-book" style={{color: "#e9bf06"}}></i></div>
-                <h4 class="title"><a href="">Dolor Sitema</a></h4>
-                <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                <h4 class="title"><a href="">Peace</a></h4>
+                <p class="description">Be calm and search for your inner peace</p>
                 </div>
             </div>
 
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon-box">
                 <div class="icon"><i class="las la-file-alt" style={{color: "#3fcdc7"}}></i></div>
-                <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-                <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                <h4 class="title"><a href="">Health Activities</a></h4>
+                <p class="description">Health is wealth. Being healthy brings your inner happiness.</p>
                 </div>
             </div>
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon-box">
                 <div class="icon"><i class="las la-tachometer-alt" style={{color:"#41cf2e"}}></i></div>
-                <h4 class="title"><a href="">Magni Dolores</a></h4>
-                <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                <h4 class="title"><a href="">Sports</a></h4>
+                <p class="description">Participate in sports in a different way</p>
                 </div>
             </div>
 
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon-box">
                 <div class="icon"><i class="las la-globe-americas" style={{color: "#d6ff22"}}></i></div>
-                <h4 class="title"><a href="">Nemo Enim</a></h4>
-                <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                <h4 class="title"><a href="">Food</a></h4>
+                <p class="description">We provide you the food in a healthiest manner</p>
                 </div>
             </div>
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon-box">
                 <div class="icon"><i class="las la-clock" style={{color: "#4680ff"}}></i></div>
-                <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-                <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                <h4 class="title"><a href="">Brainstorm</a></h4>
+                <p class="description">Making your brain to think deeper brightens your IQ level</p>
                 </div>
             </div>
             </div>
